@@ -3,7 +3,7 @@ Eternal Net is a version of LayerProx that is a network that is immune to traffi
 
 
 
-
+## Ongoing dev is the traffic generation 
 
 
 
